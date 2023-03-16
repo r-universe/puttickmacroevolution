@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "motmot"]
+	path = motmot
+	url = https://github.com/puttickmacroevolution/motmot
+	shallow = true
+	registered = true
